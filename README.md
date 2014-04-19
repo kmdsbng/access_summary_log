@@ -6,7 +6,7 @@
 This library output summarized log of your Rails applications.
 The log is intended to help development.
 
-[screenshot](https://raw.github.com/kmdsbng/access_summary_log/master/screenshot.jpg)
+![screenshot](https://raw.github.com/kmdsbng/access_summary_log/master/screenshot.jpg)
 
 ## Installation
 
