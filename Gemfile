@@ -20,5 +20,6 @@ gem 'pry'
 group :test do
   gem 'rspec', '2.11.0'
   gem 'rspec-rails', '2.11.4'
+  gem "sqlite3"
 end
 
